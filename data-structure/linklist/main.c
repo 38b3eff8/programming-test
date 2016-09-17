@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#include "node.h"
-#include "linklist.h"
+#include "linklist/node.h"
+#include "linklist/linklist.h"
 
 int main(int argc, char const *argv[]) {
 	struct LinkList* list = create_list();
