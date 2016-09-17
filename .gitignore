@@ -1,5 +1,8 @@
 *.out
 *.o
 .DS_Store
-CMakeLists.txt
 .idea/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
